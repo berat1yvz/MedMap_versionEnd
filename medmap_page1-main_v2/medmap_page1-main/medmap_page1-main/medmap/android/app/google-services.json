@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "988292586213",
+    "project_id": "hackathon-stary-up",
+    "storage_bucket": "hackathon-stary-up.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:988292586213:android:41471e822b7bfa2359920c",
+        "android_client_info": {
+          "package_name": "com.example.medmap"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVtW_wer4hxX-6RkwXe5TF4RX5yLdHuxE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
